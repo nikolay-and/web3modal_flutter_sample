@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		1RV5BFrzrJRn3f62dZQ5AZdGl9g=
+		B73dyLsIRf0gJPBfHA+Ztfys6cA=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		VAUwKrBAGRU89ZwGyIZsPEtKuTo=
+		gdnAVl3bFkSIqcfDaRPYo2PnMzs=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		c/XV5Nu+hcyz9fOh68LsfcIpz14=
+		X6T9tCeZ9EKLAWjJ/GkaJsXi56M=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -390,7 +390,7 @@
 		</data>
 		<key>Frameworks/CoinbaseWalletSDK.framework/CoinbaseWalletSDK</key>
 		<data>
-		T7MNMZUOE11Sr70/ymlcd7nDkgY=
+		IdLblm3+Vr7hHgFTrTwT5sPKE5c=
 		</data>
 		<key>Frameworks/CoinbaseWalletSDK.framework/Info.plist</key>
 		<data>
@@ -402,7 +402,7 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		jKiUKcAVMX+MA06RdYfo0KbhSSE=
+		tHVm4TVdKF6zL6WwRtzo4Tjlcbw=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -498,7 +498,7 @@
 		</data>
 		<key>Frameworks/appcheck.framework/appcheck</key>
 		<data>
-		LK0ZLAcz68Lt301oqwB7PpxTgQY=
+		r2B75Lmj/6W5exH48b3n4G1PvB0=
 		</data>
 		<key>Frameworks/coinbase_wallet_sdk.framework/Info.plist</key>
 		<data>
@@ -510,7 +510,7 @@
 		</data>
 		<key>Frameworks/coinbase_wallet_sdk.framework/coinbase_wallet_sdk</key>
 		<data>
-		y2cg7rXmB0i9j4oJ+1CouvdGA4E=
+		ZBfdk+zoyQEPBdx8LFd4JU/pTQ0=
 		</data>
 		<key>Frameworks/package_info_plus.framework/Info.plist</key>
 		<data>
@@ -522,7 +522,7 @@
 		</data>
 		<key>Frameworks/package_info_plus.framework/package_info_plus</key>
 		<data>
-		IbZc/LiErV8Zdty8QO9tHkgiEhY=
+		ulcUfOZQ/zgk6JZOajXHgLlLF10=
 		</data>
 		<key>Frameworks/package_info_plus.framework/package_info_plus_privacy.bundle/Info.plist</key>
 		<data>
@@ -542,7 +542,7 @@
 		</data>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation</key>
 		<data>
-		UD+arF3rH2fRSg+GMupxppRzdJM=
+		4whPdh7lzfucWOkIxdczWeElga4=
 		</data>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/Info.plist</key>
 		<data>
@@ -562,7 +562,7 @@
 		</data>
 		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
 		<data>
-		3PFMfIeETtnaEirVy6WaZ5wkcSQ=
+		jvcqJdLUYZofKA38GEEPGIrmhaM=
 		</data>
 		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
 		<data>
@@ -582,7 +582,7 @@
 		</data>
 		<key>Frameworks/sqflite.framework/sqflite</key>
 		<data>
-		5WWwE9VHdjN4FCy64Y9wq9QD8Ss=
+		NY0WQAYaOLjsmcAzaUPF1v3PJSg=
 		</data>
 		<key>Frameworks/sqflite.framework/sqflite_darwin_privacy.bundle/Info.plist</key>
 		<data>
@@ -602,7 +602,7 @@
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios</key>
 		<data>
-		pEA+8QcamMQBcQHL9yqu1NANs1I=
+		FIQzSABSnZldSo8e652mr5rd3N0=
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
 		<data>
@@ -701,7 +701,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V1+3On7F75Ir9XcRpvGHw5bQmz/o8f1oZSL135IV8dg=
+			/K8HuzVxx/dAwKhquvdZnrP6m8qANWKsWGJY8LvOhwI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -715,7 +715,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/OXPjHTD/FMxlmlxU3bYOZUa7tmJfcbVk53v5Qp8uGQ=
+			0ExqxtJUv58MOHVu5seXG7m3PHwHjdU1bD2chrF7qf0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
@@ -764,7 +764,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qpmXtesqEa0qjWWho4GuppfHfw+WQAOYrTS/NDrl+WA=
+			aTpJOVDSpmm0ppxoggSUNgxeiVeJmoahcyV3MIaQ8uc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -1303,7 +1303,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U6V0SvYym0htU1dKdqPEmlpRheUoqq6vkqgoVrZI2pY=
+			ICZcUHmBwnX2OFT8jC9tmiWaUI5U6TKmLrLuPelhX1M=
 			</data>
 		</dict>
 		<key>Frameworks/CoinbaseWalletSDK.framework/Info.plist</key>
@@ -1324,7 +1324,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vusc8qLTGIh4aIAYIRkzCL4qadnf2GQdQdJQUxwCr2U=
+			npqoGQJm1qcKGyWmaWk04gF2yV7ZbSy2pCtC4lyWGgY=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -1492,7 +1492,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JNPu4wKzFDJMJwl15xHAfM4Ck7d5Y1Rgq2uBhWpQ6RM=
+			ufDvi8v5dgrQJ46EEAEggh8A6cb4bQXOuHR6qnYsoHU=
 			</data>
 		</dict>
 		<key>Frameworks/coinbase_wallet_sdk.framework/Info.plist</key>
@@ -1513,7 +1513,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6ZCMwDwzFlqUHoA+yTw4Vli1ZVrBQZAh2WIUcPHkn8M=
+			1n39xf2Z1Ky3DflJ2q+VMaOOJ6HUZbRg1SZx7/KHZWI=
 			</data>
 		</dict>
 		<key>Frameworks/package_info_plus.framework/Info.plist</key>
@@ -1534,7 +1534,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1hdKWOm4CWkMS6YhPwl8AsSNPj8hl+QXHJZ1iKZr2Ig=
+			E1w78Dwls70ZduReVEzHQw3+Wx8/AaPCuxMeYc2ZFIw=
 			</data>
 		</dict>
 		<key>Frameworks/package_info_plus.framework/package_info_plus_privacy.bundle/Info.plist</key>
@@ -1569,7 +1569,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fFyWgEZDWFEj0eU7m0cgKfHsTwe+D0WMEiiCJnSXUDQ=
+			Cn39+mKsjNMhF1b+f6jc0vWdhM8BjBn4T63XJTJvAC8=
 			</data>
 		</dict>
 		<key>Frameworks/path_provider_foundation.framework/path_provider_foundation_privacy.bundle/Info.plist</key>
@@ -1604,7 +1604,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7TXhu/CeQ4ICSIZWJhIjSYXe5LobgPRqhDgOUZBQmhw=
+			qs62yy4f2oMbyF2RvPoiYvfIQazWZokrWp444w22sQQ=
 			</data>
 		</dict>
 		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
@@ -1639,7 +1639,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vb1PV5do65viNHG3ZtynuS8kEsH9PccwnZ/B5/WkAKo=
+			Y/wF99RcdX2f+bySank6+ucqEuabwApLFgO0PCkaekk=
 			</data>
 		</dict>
 		<key>Frameworks/sqflite.framework/sqflite_darwin_privacy.bundle/Info.plist</key>
@@ -1674,7 +1674,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZCoMvtXzoZoJyGKinmaqr+KSxQK0A7TjvWnaxQePsDg=
+			RkTcSQFLSm1dATA7LGEd72UsOapcpD8rbMdmv7Z/Ve0=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>

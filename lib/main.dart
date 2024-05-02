@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void int() async {
     _w3mService  = W3MService(
-      projectId: '< PROJECT ID SHOULD BE PLACED HERE >',
+      projectId: 'abb88db3b729f564abff8f503eb48016',
       metadata: const PairingMetadata(
         name: 'Web3Modal Flutter Example',
         description: 'Web3Modal Flutter Example',
@@ -151,19 +151,20 @@ class _MyHomePageState extends State<MyHomePage> {
                       }],
                     ),
                   );
-                }, child: const Text("Send")),
+                }, child: const Text("Send Transaction")),
                 ElevatedButton(onPressed: () async {
                   _w3mService.launchConnectedWallet();
+                  final connectedAddress = _w3mService.session?.address;
                   await _w3mService.request(
                     topic: _w3mService.session?.topic ?? '',
                     chainId: 'eip155:1', // Connected chain id
                     request: SessionRequestParams(
                       method: 'personal_sign',
-                      params: ['Sign this', "0x3D1bf2A5EFE4be1D0EFeD337eda3a90B925Ab163"],
+                      params: ['Sign this', connectedAddress],
                     ),
                   );
 
-                }, child: const Text("Send 2")),
+                }, child: const Text("Sign")),
               ],
             ),
           ],
